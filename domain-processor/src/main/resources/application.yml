@@ -20,5 +20,5 @@ spring.cloud.stream:
               serializer: org.springframework.kafka.support.serializer.JsonSerializer
     binder:
       brokers:
-        - localhost:9091
+#        - localhost:9091
         - localhost:9092

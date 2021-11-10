@@ -10,3 +10,12 @@
 
 ## Architecture
 ![architecture](architecture.png)
+
+## For DOCKER set up
+Please refer to this 
+```
+https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html```
+```
+
+## Youtube link for this project -TechPrimer good explaination
+https://www.youtube.com/watch?v=rqjdSbIOrJ4
